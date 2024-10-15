@@ -69,6 +69,7 @@ h1 {
    
     text-align: center;
     width: auto;
+    
 }
 
 
@@ -79,6 +80,13 @@ h1 {
     height: 85vh;
     float: right;
     color: rgb(251, 252, 251);
+    
+}
+.sticky-image {
+    position: sticky;
+    top: 10px; 
+    z-index: 1000; 
+    width: 100px; 
     
 }
 
